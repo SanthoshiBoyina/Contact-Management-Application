@@ -1,3 +1,16 @@
+# About
+
+In this Contact Management Application, user can Add and Delete a contact. Data is stored in the Local system.
+
+## Screen-shots:
+
+### `List of all the contacts`
+
+### `Can add the contacts`
+
+### `Can delete the contacts`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
